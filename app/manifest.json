@@ -1,0 +1,16 @@
+  {
+    "name": "Pacman",
+    "short_name": "Pacman",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "A demo app",
+    "theme_color": "#2A3443",
+    "icons": [
+      {
+        "src": "./assets/css/images/144x144.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
